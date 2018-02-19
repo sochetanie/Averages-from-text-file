@@ -7,13 +7,16 @@ The file numbers.text conisits of sequences of numbers, each sequence preceded b
    For example, if the file numbers.text contains:
 
    3 1 2 3
+
    5 12 14 6 4 0
+
    10 1 2 3 4 5 6 7 8 9 10
+
    1 17
+
    2 90 80
 
-
-   the program should produce the following output:
+   the program should produce the following OUTPUT:
 
    The average of the 3 integers 1 2 3 is 2.0
    The average of the 5 integers 12 14 6 4 0 is 7.2
