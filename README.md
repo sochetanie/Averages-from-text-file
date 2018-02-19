@@ -19,7 +19,9 @@ The file numbers.text conisits of sequences of numbers, each sequence preceded b
    the program should produce the following OUTPUT:
 
    The average of the 3 integers 1 2 3 is 2.0
+
    The average of the 5 integers 12 14 6 4 0 is 7.2
+
    The average of the 10 integers 1 2 3 4 5 6 7 8 9 10 is 5.5
    The average of the 1 integers 17 is 17.0
    The average of the 2 integers 90 80 is 85.0
